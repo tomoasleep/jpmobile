@@ -43,7 +43,7 @@
 == 使用例
 
 === 携帯電話の識別
-環境変数 env['rack.jpmobile'] にキャリアクラスのインスタンスが格納されています。また Rack::Request#mobile としても取得可能です。
+環境変数 <tt>env\['rack.jpmobile'\]</tt> にキャリアクラスのインスタンスが格納されています。また Rack::Request#mobile としても取得可能です。
 
 ==== キャリアの識別
 
